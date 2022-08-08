@@ -39,3 +39,6 @@ Technical Requirments:
 
 ![image](https://user-images.githubusercontent.com/47048100/183403491-ee40d5c1-9ecc-4db8-bb7b-067e2a743d29.png)
 
+![image](https://user-images.githubusercontent.com/47048100/183403800-ba13dade-c7d8-4315-a6e2-ffbd83de6a8e.png)
+
+
