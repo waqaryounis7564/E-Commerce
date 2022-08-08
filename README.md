@@ -37,5 +37,5 @@ Technical Requirments:
 ![image](https://user-images.githubusercontent.com/47048100/183400136-ee9894d7-ac2c-4d0e-af24-9d2977279277.png)
 
 
-![image](https://user-images.githubusercontent.com/47048100/183403117-614e8c24-4449-4ca5-b6f4-680785ce7c55.png)
+
 
