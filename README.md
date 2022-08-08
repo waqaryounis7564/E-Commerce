@@ -4,22 +4,22 @@ Develop a complete shopping website using Java, Spring Boot and MySQL database.
 
 Technical Requirments:
 
-1. Accessibility : 
+1. **Accessibility** : 
                  Apps can be accessible from any devices connected to the Internet: PC, laptop, tablet, smartphone etc.
           
-2. Availability :
+2. **Availability** :
                 Users can access apps any time, 24/7.
           
-3.Security :
+3.**Security** :
             Authentication required for all users (except visitors)
             Authorization required in the admin CP (editor,assistant, salesperson, shipper...)
             Passwords are not stored in database
             Payment is secured
         
-4.Performance :
+4.**Performance** :
               Fast response time.
               No requests take longer than 4 seconds.
           
-5. Scalability :          
+5. **Scalability** :          
                 Apps can be scaled on demand and running well under loads.
                 Back-end and Front-end apps can be scaled separately.
