@@ -23,3 +23,9 @@ Technical Requirments:
 5. **Scalability** :          
                 Apps can be scaled on demand and running well under loads.
                 Back-end and Front-end apps can be scaled separately.
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/47048100/183399266-cd6d16e3-c1b6-44af-b9f9-bd8b79476b0a.png)
