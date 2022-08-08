@@ -33,3 +33,7 @@ Technical Requirments:
 
 ![image](https://user-images.githubusercontent.com/47048100/183399739-708beab3-d255-4473-9c01-aa43f6a2d153.png)
 
+![image](https://user-images.githubusercontent.com/47048100/183400136-ee9894d7-ac2c-4d0e-af24-9d2977279277.png)
+
+
+
