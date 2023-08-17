@@ -1,5 +1,5 @@
 # E-Commerce
-Develop a complete shopping website using Java, Spring Boot and MySQL database.
+Develop a complete shopping website using Java, Spring Boot and Postgres database.
 ![image](https://user-images.githubusercontent.com/47048100/183396984-bf1ff4e3-6d32-40dd-b338-645e77aa3297.png)
 
 Technical Requirments:
